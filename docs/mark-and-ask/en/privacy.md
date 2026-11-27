@@ -1,4 +1,7 @@
 # Privacy Policy · Mark & Ask
+
+[简体中文](PRIVACY.zh-CN.md)
+
 Mark & Ask (by DistractedLab) · Effective date: 2026-11-25
 
 ## Overview
@@ -75,6 +78,7 @@ Because the records are only in your browser, DistractedLab does not have access
 - tabs: read the current tab’s title and URL to match records.
 - storage: store local records and settings.
 - sidePanel, contextMenus: show the side panel and the right-click menu.
+- `file:///*`: read local HTML files to add marks after you enable Allow access to file URLs in Chrome’s extension details; the file address is stored in your local records.
 - Optional permissions: access to the AI endpoint you enter and downloading exported files; both are requested only when used.
 
 ## Changes
