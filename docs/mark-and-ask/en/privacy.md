@@ -1,7 +1,5 @@
 # Privacy Policy · Mark & Ask
 
-[简体中文](PRIVACY.zh-CN.md)
-
 Mark & Ask (by DistractedLab) · Effective date: 2026-11-25
 
 ## Overview
