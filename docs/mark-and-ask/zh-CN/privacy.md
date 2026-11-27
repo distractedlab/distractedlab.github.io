@@ -1,4 +1,3 @@
-[PRIVACY.zh-CN.md](https://github.com/user-attachments/files/35516150/PRIVACY.zh-CN.md)
 # 隐私政策 · Mark & Ask
 
 Mark & Ask (by DistractedLab) · 生效日期：2026-11-25
