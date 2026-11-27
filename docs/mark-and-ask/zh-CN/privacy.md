@@ -1,4 +1,6 @@
+[PRIVACY.zh-CN.md](https://github.com/user-attachments/files/35516150/PRIVACY.zh-CN.md)
 # 隐私政策 · Mark & Ask
+
 Mark & Ask (by DistractedLab) · 生效日期：2026-11-25
 
 ## 概述
@@ -75,6 +77,7 @@ Mark & Ask (by DistractedLab) · 生效日期：2026-11-25
 - tabs：读取当前标签页的标题和地址，用于匹配记录。
 - storage：保存本地记录与设置。
 - sidePanel、contextMenus：显示侧栏和右键菜单。
+- `file:///*`：仅在你于 Chrome 扩展详情中开启「允许访问文件网址」后，读取本地 HTML 文件以添加标记；文件地址会保存在本机记录中。
 - 可选权限：访问你填写的 AI 服务域名，以及下载导出文件；两者都在使用时才申请。
 
 ## 政策变更
